@@ -1,5 +1,5 @@
 # GeneratorApp
-Application made with cooperation with members of Facebook programming group.
+Application made with cooperation with members of Facebook programming group whitch I am part of.
 
 Application assign 20 people with different level of advancement in programming to 4 groups:
 - Hero
@@ -7,4 +7,4 @@ Application assign 20 people with different level of advancement in programming 
 - HollywoodWife
 - Gamer
 
-Made as Mavem project.
+Made as Maven project.
